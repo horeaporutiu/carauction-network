@@ -77,8 +77,9 @@ $ cd carauction-network
 ```
 
 ## Step 2. Enroll App 
- ![packageFile](/docs/enrollAdmin.gif)
-  ![packageFile](/docs/a.gif)
+ <!-- ![packageFile](/docs/enrollAdmin.gif)
+  ![packageFile](/docs/a.gif) -->
+  ![packageFile](https://imgur.com/a/68S5j6Q)
 
 
 First, we need to generate the necessary keys and certs from the Certificate Authority to prove our authenticity to the network.

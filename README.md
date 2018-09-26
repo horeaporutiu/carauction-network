@@ -77,10 +77,10 @@ $ cd carauction-network
 ```
 
 ## Step 2. Enroll App 
- <!-- <!-- ![packageFile](/docs/enrollAdmin.gif)
+ <!-- ![packageFile](/docs/enrollAdmin.gif)
   ![packageFile](/docs/a.gif) -->
-  https://imgur.com/a/68S5j6Q -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/68S5j6Q"><a href="//imgur.com/68S5j6Q"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  https://imgur.com/a/68S5j6Q
+![Error](https://imgur.com/a/68S5j6Q.gif)
 
 First, we need to generate the necessary keys and certs from the Certificate Authority to prove our authenticity to the network.
 To do this, we will go into our new IBM Blockchain Starter Plan network, and from the `Overview` Tab on the left, we will click on `Connection Profile` on the right-side of the page. Then click on `Raw JSON`.
